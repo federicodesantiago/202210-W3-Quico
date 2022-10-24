@@ -1,6 +1,6 @@
-#Week 1 - Challenge WeekEnd
+# Week 1 - Challenge WeekEnd
 
-##Travelulu
+## Travelulu
 
 Este challenge en parejas consiste en maquetar en HTML y CSS (nada de JS) la web de Travelulu (sólo la Subpage, no la Homepage), a partir del figma proporcionado: versión mobile y versión desktop.
 
